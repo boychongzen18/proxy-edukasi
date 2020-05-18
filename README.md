@@ -14,6 +14,8 @@
 
 Link Scanning Bug : https://github.com/boychongzen18/sub-bug
 
+Link Cek Proxy : https://www.zoomeye.org/searchResult?q=169.254.123.164
+
 Apk Ultrasurf For Android : https://apkpure.com/id/ultrasurf-beta-unlimited-free-vpn-proxy/us.ultrasurf.mobile.ultrasurf
 
 
