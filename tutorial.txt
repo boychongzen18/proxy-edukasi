@@ -1,0 +1,19 @@
+
+Proxy Edukasi All Operator
+
+Created Boychongzen aka Xroot
+
+List Proxy
+
+118.99.90.130:4145
+103.78.81.188:4145
+103.85.64.20:4145
+103.113.3.150:4145
+103.36.8.83:4145
+103.76.148.240:4145
+103.76.148.241:4145
+
+
+Link Cek Proxy
+
+https://www.zoomeye.org/searchResult?q=169.254.123.164
