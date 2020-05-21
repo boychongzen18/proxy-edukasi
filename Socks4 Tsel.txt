@@ -11,3 +11,8 @@ Created Boychongzen aka Xroot
 36.84.59.53:4145 - TSEL
 118.96.149.97:4145 - TSEL
 36.66.216.83:4145 - TSEL
+
+
+Link Cek Proxy
+
+https://www.zoomeye.org/searchResult?q=169.254.123.164
